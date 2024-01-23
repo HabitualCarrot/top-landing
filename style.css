@@ -105,3 +105,38 @@ img {
     padding: 5px 5px
     align-text: center;
 }
+
+.section-two-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.box {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.section-two p {
+    max-width: 100px;
+}
