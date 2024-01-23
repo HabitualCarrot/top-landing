@@ -140,3 +140,29 @@ img {
 .section-two p {
     max-width: 100px;
 }
+
+
+.section-two {
+    margin-bottom: 50px;
+}
+
+.third-section {
+    display: flex;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    display: flex;
+    /* text-align: center; */
+    padding: 100px 100px;
+    text-wrap: balance;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
